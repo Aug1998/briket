@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/briket/static/js/main.9c06b332.js",
+    "main.js": "/briket/static/js/main.bb4d2615.js",
     "index.html": "/briket/index.html",
-    "main.9c06b332.js.map": "/briket/static/js/main.9c06b332.js.map"
+    "main.bb4d2615.js.map": "/briket/static/js/main.bb4d2615.js.map"
   },
   "entrypoints": [
-    "static/js/main.9c06b332.js"
+    "static/js/main.bb4d2615.js"
   ]
 }
